@@ -1,0 +1,38 @@
+# CHANGELOG.md
+
+Daily activity log. Newest at top.
+
+---
+
+## YYYY-MM-DD
+
+**Session focus:** <one-line summary>
+
+**Decisions locked:**
+- D-YYYY-MM-DD-01: <short name>
+
+**PARK items:**
+- Added: PARK-YYYY-MM-DD-01: <short name>
+- Closed: <if any>
+
+**Audits closed:**
+- <count>: <type breakdown>
+
+**Files touched:**
+- <substrate file>: <nature of change>
+- <content file>: <nature of change>
+
+**Test baseline:** <N/N at start> → <N/N at end>
+
+**Strategic flags raised:**
+- <description + resolution> OR "none"
+
+**Open questions for next session:**
+1. <question>
+2. <question>
+
+---
+
+## YYYY-MM-DD (previous day)
+
+...

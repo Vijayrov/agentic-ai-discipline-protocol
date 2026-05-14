@@ -1,0 +1,32 @@
+# DECISIONS.md
+
+Locked decisions for this project. Append-only. Each entry is immutable once written.
+
+**Format:** `D-YYYY-MM-DD-NN` where NN is the sequence within the day.
+
+---
+
+## D-YYYY-MM-DD-01 — <Short decision name>
+
+**Locked:** YYYY-MM-DD HH:MM (timezone)
+**Authority:** <Human decision-maker name>
+**Context:** <1–3 sentences on what triggered this decision>
+
+**Decision:**
+<The actual lock language. Specific, unambiguous, citable.>
+
+**Rationale:**
+<Why this and not alternatives>
+
+**Grounding:**
+- VERIFIED: <source citation>
+- INFERRED: <rationale + what would verify>
+
+**Supersedes:** <prior decision ID if applicable, else "none">
+**Amended:** <YYYY-MM-DD if later amended, with link to amendment entry>
+
+---
+
+## D-YYYY-MM-DD-02 — <Next decision>
+
+...

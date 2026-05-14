@@ -1,0 +1,57 @@
+# SESSION_STATE.md
+
+Working state of the project. Updated continuously across sessions. Latest baseline at the top; history below.
+
+---
+
+## Current baseline: `<YYYY-MM-DD>_<descriptor>`
+
+**Last updated:** YYYY-MM-DD HH:MM
+**Locked decisions count:** N
+**PARK items open:** N
+**Audits closed (lifetime):** N
+**Test baseline:** N / N passing
+**Pilot/deadline window:** N days remaining
+
+---
+
+## PARK items (open)
+
+### PARK-YYYY-MM-DD-01 — <Short name>
+**Surfaced:** YYYY-MM-DD
+**Trigger:** <what caused this to be parked>
+**Disposition options:**
+- (a) <option> — <pros/cons>
+- (b) <option> — <pros/cons>
+- (c) <option> — <pros/cons>
+
+**Current de-facto state:** <option being followed in practice>
+**Awaiting:** <Human decision / external dependency>
+
+---
+
+## Audits closed (recent)
+
+### Audit-YYYY-MM-DD-01 — <Short name>
+**Closed:** YYYY-MM-DD
+**Type:** <audit | backfill cycle | verification>
+**Files touched:** <list or "none — read-only">
+**Tests:** <baseline result>
+**Strategic flags raised:** <none | list>
+
+---
+
+## Invariant deviation log
+
+### YYYY-MM-DD — INV-N deviation
+**What happened:** <factual description>
+**Remediation:** <how it was fixed>
+**Discipline note appended:** <yes/no>
+**Escalated to decision-level:** <decision ID if applicable>
+
+---
+
+## Baseline history
+
+- `<YYYY-MM-DD>_<descriptor>` — N decisions, N PARK items, N audits
+- `<YYYY-MM-DD>_<descriptor>` — N decisions, N PARK items, N audits
